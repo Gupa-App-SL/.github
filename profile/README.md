@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://dev-gupa.com/" target="_blank">
-        <img src="img/gupa-splash.png" style="width: 100%" alt="GUPA APP SL">
+        <img src="https://github.com/Gupa-App-SL/.github/blob/main/img/gupa-splash.png" style="width: 100%" alt="GUPA APP SL">
     </a>
 </p>
 <h1 align="center">GUPA APP SL</h1>
