@@ -23,7 +23,7 @@
         <img src="https://img.shields.io/badge/MySQL-8.0-blue.svg?style=flat&logo=mysql&logoColor=white&logoWidth=20" alt="MySQL">
     </a>
     <a href="https://www.mongodb.com/"> 
-        <img src="https://img.shields.io/badge/MySQL-8.0-blue.svg?style=flat&logo=mongodb&logoColor=white&logoWidth=20" alt="MongoDB">
+        <img src="https://img.shields.io/badge/MongoDB-8.0-blue.svg?style=flat&logo=mongodb&logoColor=white&logoWidth=20" alt="MongoDB">
     </a>
     <a href="https://www.rabbitmq.com/"> 
         <img src="https://img.shields.io/badge/RabbitMQ-3.8.5-blue.svg?style=flat&logo=rabbitmq&logoColor=white&logoWidth=20" alt="RabbitMQ">
