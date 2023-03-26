@@ -47,5 +47,5 @@
 
 ## Documentación
 
-[Documentación](./docs/documentation.md)
+[Documentación](https://github.com/Gupa-App-SL/documentacion/blob/main/docs)
 
