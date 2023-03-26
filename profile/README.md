@@ -1,10 +1,9 @@
-<h1 align="center">GUPA APP SL</h1>
-
 <p align="center">
     <a href="https://dev-gupa.com/" target="_blank">
-        <img src="docs/logo.png" width="400" alt="GUPA APP SL">
+        <img src="img/gupa-splash.png" style="width: 100%" alt="GUPA APP SL">
     </a>
 </p>
+<h1 align="center">GUPA APP SL</h1>
 <p align="center">
     <a href="https://www.php.net/">
         <img src="https://img.shields.io/badge/PHP-8.0-blue.svg?style=flat&logo=php&logoColor=white&logoWidth=20" alt="PHP">
